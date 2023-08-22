@@ -1,0 +1,2 @@
+tuple("Python")
+print(tuple)
